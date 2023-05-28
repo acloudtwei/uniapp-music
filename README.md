@@ -25,20 +25,22 @@
 
 **主要功能演示图如下图所示：**
 
-![login.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/login.png)
+<div align="center">
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/login.png" />
 
-![qrlogin.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/qrlogin.png)
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/qrlogin.png" />
 
-![index.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png)
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png" />
 
-![search.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png)
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png" />
+  
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.pngs" />
 
-![play1.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.png)
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.pngs" />
+  
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.pngs" />
 
-![play.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.png)
-
-![my.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.png)
-
+</div>
 ### 声明
 
 - 本仓库中的脚本仅用于测试和学习目的，请勿用于**商业或非法目的**，否则后果自负
