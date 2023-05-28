@@ -20,6 +20,7 @@
 
 **主要功能结构图：**images
 
+
 ![structure.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/structure.png)
 
 **主要功能演示图如下图所示：**
