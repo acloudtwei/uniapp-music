@@ -26,19 +26,19 @@
 **主要功能演示图如下图所示：**
 
 <div align="center">
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/login.png" />
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/login.png" width='320px' height='560px' />
 
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/qrlogin.png" />
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/qrlogin.png" width='320px' height='560px' />
 
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png" />
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png" width='320px' height='560px' />
 
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png" />
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png" width='320px' height='560px' />
 
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.png" />
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.png" width='320px' height='560px' />
 
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.png" />
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.png" width='320px' height='560px' />
 
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.png" />
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.png" width='320px' height='560px' />
 
 </div>
 ### 声明
