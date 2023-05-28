@@ -33,12 +33,12 @@
   <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png" />
 
   <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png" />
-  
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.pngs" />
 
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.pngs" />
-  
-  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.pngs" />
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.png" />
+
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.png" />
+
+  <img  src="https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.png" />
 
 </div>
 ### 声明
