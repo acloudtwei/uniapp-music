@@ -2,10 +2,8 @@
 **此项目是基于网易云音乐API服务开发的一款多端聚合云音乐，里面有账号密码登录和网易云音乐扫码登录、音乐播放、个人中心、多个平台的音乐搜索（QQ音乐、酷狗音乐、酷我音乐等）。**
 
 ***
-
-![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true)
-
 <div align="center">
+  ![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true)
   <img  src="https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true&theme=radical&hide=contribs,prs" />
 </div>
 
@@ -18,23 +16,25 @@
 
 **主要功能结构图：**images
 
-<center><p>![structure.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/structure.png#pic_center)</p></center>
+<div align="center">![structure.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/structure.png#pic_center)</div>
 
 **主要功能演示图如下图所示：**
 
-<center><p>![login.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/login.png#pic_center)</p></center>
+<div align="center">
+  ![login.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/login.png#pic_center)
 
-<center><p>![qrlogin.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/qrlogin.png#pic_center)</p></center>
+  ![qrlogin.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/qrlogin.png#pic_center)
 
-<center><p>![index.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png#pic_center)</p></center>
+  ![index.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png#pic_center)
 
-<center><p>![search.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png#pic_center)</p></center>
+  ![search.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png#pic_center)
 
-<center><p>![play1.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.png#pic_center)</p></center>
+  ![play1.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.png#pic_center)
 
-<center><p>![play.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.png#pic_center)</p></center>
+  ![play.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.png#pic_center)
 
-<center><p>![my.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.png#pic_center)</p></center>
+  ![my.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.png#pic_center)
+ </div>
 
 ### 声明
 
