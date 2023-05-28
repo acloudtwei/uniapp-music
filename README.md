@@ -3,7 +3,9 @@
 
 ***
 
-![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true)
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true" />
+</div>
 
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true&theme=radical&hide=contribs,prs" />
@@ -18,23 +20,23 @@
 
 **主要功能结构图：**images
 
-![structure.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/structure.png#pic_center)
+![structure.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/structure.png)
 
 **主要功能演示图如下图所示：**
 
-![login.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/login.png#pic_center)
+![login.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/login.png)
 
-![qrlogin.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/qrlogin.png#pic_center)
+![qrlogin.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/qrlogin.png)
 
-![index.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png#pic_center)
+![index.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/index.png)
 
-![search.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png#pic_center)
+![search.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/search.png)
 
-![play1.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.png#pic_center)
+![play1.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play1.png)
 
-![play.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.png#pic_center)
+![play.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/play.png)
 
-![my.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.png#pic_center)
+![my.png](https://cdn.jsdelivr.net/gh/acloudtwei/uniapp-music/images/my.png)
 
 ### 声明
 
